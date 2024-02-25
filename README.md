@@ -1,7 +1,10 @@
 <h1>My Little Library</h1>
 
 <h2>Description</h2>
-A mobile application that allows users to create up to 4 profiles to organize and manage their book collection. 
+A mobile application that allows users to create up to 4 profiles to organize and manage their book collection.
+This application uses SQLite to store app data directly on the user's device. 
+Users can add, edit, and delete profiles with a username and pin, add, edit, delete, and view book details, and view login activity.
+This application was deployed to the Google Play Store and is currently in the internal testing phase. 
 <br />
 
 
